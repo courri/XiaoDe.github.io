@@ -140,8 +140,8 @@ strong {
 }
 
 img {
-  /*width: 100%;
-  height: 100%;*/
+  width: 100%;
+  height: 100%;
   position: relative;
   margin: 0 auto;
   padding: 5px;
@@ -421,4 +421,10 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+/***自定义css***/
+.cimg {
+  display: block;
+  float: right;
 }
