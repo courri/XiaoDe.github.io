@@ -1,8 +1,8 @@
- /*取网页URL（不含域名和查询参数）的md5*/
+﻿ /*取网页URL（不含域名和查询参数）的md5*/
  function getUrlMd5() {
-   return md5('/xiaode'+window.location.pathname);
+   return md5(window.location.pathname);
  }
- 
+
 
 /*md5加密函数开始*/
  var hexcase = 0;
