@@ -1,6 +1,6 @@
  /*取网页URL（不含域名和查询参数）的md5*/
  function getUrlMd5() {
-   return md5('/xiaode/'+window.location.pathname);
+   return md5('/xiaode'+window.location.pathname);
  }
  
 
