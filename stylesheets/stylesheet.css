@@ -35,6 +35,10 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
+ol, ul {
+  list-style: none;
+}
+
 blockquote, q {
 }
 
@@ -421,4 +425,24 @@ Small Device Styles
 .cimg {
   display: block;
   float: right;
+}
+
+.ul1 {
+  list-style-type: disc;
+}
+
+.ul2 {
+  list-style-type: circle;
+}
+
+.ul3 {
+  list-style-type: square;
+}
+
+.ol1 {
+  list-style-type: decimal;
+}
+
+.ol0 {
+  list-style-type: decimal-leading-zero;
 }
