@@ -1,4 +1,4 @@
-XiaoDe.github.io
+http://XiaoDe.github.io
 ================
 
 小德，说汉语的自然信仰者——一个关于德鲁伊的文档翻译计划
